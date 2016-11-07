@@ -2,16 +2,15 @@
 
 ## Introduction
 
-This is the project 1 Movie Trailer Website Project for Udacity Fullstack Nanodegree. This app covers:
-* Python
-* HTML, CSS
+This is the project 2 Build a Portfolio Project for Udacity Fullstack Nanodegree. This app covers:
+* HTML, CSS,
+* Learning CSS Layouts
 
-![movie](https://cloud.githubusercontent.com/assets/15135653/20071402/628b5c36-a4f2-11e6-84d9-f7e5d5977742.jpg)
-
+![p2](https://cloud.githubusercontent.com/assets/15135653/20071621/2bdc568a-a4f3-11e6-8a05-c479359cb395.jpg)
 
 ## Requirements
 
-* Python IDLE software
+* Sublime Text Editor
 
 
 ## Installation
@@ -20,11 +19,9 @@ This is the project 1 Movie Trailer Website Project for Udacity Fullstack Nanode
 
 ##Usage
 
-1. Open up entertainment_center.py with IDLE
-2. Run the program (F5)
-3. view fresh_tomatoes.html
+1. Open up index.html in any text editor
 
 
 ## Details
 
-* This is a html page displaying movie title and images
+* Displays basic webpage showcasing css box layouts
